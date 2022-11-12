@@ -16,7 +16,7 @@
     <env name="SESSION_DRIVER" value="array"/>
     <env name="QUEUE_DRIVER" value="sync"/>
     <env name="DB_CONNECTION" value="sqlite"/>
-    <server name="SERVER_NAME" value="http://127.0.0.1:8000"/>
+    <server name="SERVER_NAME" value="http://127.0.0.1:8118"/>
     <ini name="display_errors" value="true"/>
   </php>
 </phpunit>
